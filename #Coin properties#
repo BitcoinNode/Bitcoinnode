@@ -1,15 +1,15 @@
 #Coin properties#
-Compiling OS:	Ubuntu 18.04 LTS
+Compiling OS:	  Ubuntu 18.04 LTS
 Source branch:	0.16
-Algorithm:		Scrypt/SHA-256
-Block type		Proof-of-Work
-Coin name		BitcoinNode
-abbreviation	BTCN
+Algorithm:		  Scrypt/SHA-256
+Block type		  Proof-of-Work
+Coin name		    BitcoinNode
+abbreviation	  BTCN
 Address letter	2
-RPC port		19989
-P2P port		19990
-Block reward	50 coins
-Block halving	210000 blocks
-Coin supply		21000000 coins
-Website URL		https://bitcoinodes.com
-Github URL		https://github.com/BitcoinNode/Bitcoinnode
+RPC port		    19989
+P2P port		    19990
+Block reward	  50 coins
+Block halving	  210000 blocks
+Coin supply		  21000000 coins
+Website URL		  https://bitcoinodes.com
+Github URL		  https://github.com/BitcoinNode/Bitcoinnode
