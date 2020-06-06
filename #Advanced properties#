@@ -1,0 +1,8 @@
+#Advanced properties#
+Coinbase maturity	5 ( + 1 default confirmation) blocks
+Target spacing		10 minutes
+Target timespan		10 minutes
+confirmations	5 blocks
+
+Last block with reward	6930000
+Time until last block	131 years, 9 months, 5 days, 0 hours
